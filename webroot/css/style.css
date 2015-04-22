@@ -1,0 +1,8 @@
+/* style.css */
+
+@import "calendar.css";
+
+div#container {
+	margin: 0px auto;
+	width: 860px;
+}

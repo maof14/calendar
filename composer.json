@@ -1,0 +1,12 @@
+{
+    "name": "maof14/calendar",
+    "description": "Swedish calendar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mattias Olsson",
+            "email": "mattias.olsson@hotmail.se"
+        }
+    ],
+    "require": {}
+}

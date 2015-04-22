@@ -1,0 +1,10 @@
+# Logs and databases
+*.sqlite
+*.log
+webroot/.htsqlite.db
+
+
+# OS generated files
+.DS_Store
+.DS_Store?
+/vendor/
